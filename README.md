@@ -1,4 +1,4 @@
-# ハノイの塔
+# ハノイの塔（C#）
 実行は<a href="https://paiza.io/projects/e/DDCuMSPG5-ay6rS6g0VQvw?theme=monokai">こちら</a>（入力は半角数字）
 
 ## アルゴリズム
