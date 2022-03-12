@@ -1,4 +1,5 @@
 # ハノイの塔
+実行は<a href="https://paiza.io/projects/e/DDCuMSPG5-ay6rS6g0VQvw?theme=monokai">こちら</a>
 
 ## アルゴリズム
 ```Text
@@ -10,7 +11,7 @@ move n-1 disks from B to C -> 再帰
 ```
 <img alt="Tower of hanoi" src="https://user-images.githubusercontent.com/74280232/158025699-ec93796c-3322-48d9-b9be-5e10b7249d8c.png" width=300>
 
-## n=3の例
+## 実行例（n=3）
 ```Text
 How many disks? -> 3
 
