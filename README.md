@@ -1,5 +1,6 @@
 # ハノイの塔（C#）
-実行は<a href="https://paiza.io/projects/e/DDCuMSPG5-ay6rS6g0VQvw?theme=monokai">こちら</a>（入力は半角数字）
+詳細は[Qiita記事](https://qiita.com/probabilityhill/items/187c794ea725f68cb30f)  
+実行は[こちら](https://paiza.io/projects/e/DDCuMSPG5-ay6rS6g0VQvw?theme=monokai)（入力は半角数字）
 
 ## アルゴリズム
 ```Text
